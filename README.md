@@ -10,8 +10,8 @@
 4. Cambiar las configuraciones del algoritmo LogisticRegression.
 
 ### Integrantes Grupo 8
-José Luis Masache
-Jairo Pillajo
-Byron Acaro
+1. José Luis Masache
+2. Jairo Pillajo
+3. Byron Acaro
 
 #### Proyecto con fines educativos
